@@ -17,6 +17,8 @@
    - Help them articulate a clear, focused task
    - Suggest a concise task name (kebab-case)
 
+   **Wait for user response before proceeding.**
+
 3. **Create Task Structure**
 
    - `.buddy/tasks/[task-name]/` directory

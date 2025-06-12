@@ -32,10 +32,6 @@ Smart router that determines user intent and executes appropriate BUDDY commands
 
    **If NO tasks exist:**
 
-   ```
-   "No tasks yet. What should we build today?"
-   ```
-
    → Follow instructions in `.claude/commands/buddy-new.md`
 
    **If tasks exist but none specified:**

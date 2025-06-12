@@ -21,12 +21,13 @@
    "🦾 Before we dive into [current phase], I'm looking at our plan.
    Still feeling good about this approach, or should we adjust?"
    ```
-   
+
+   **Wait for user response before proceeding.**
+
    **If plan needs changes:**
-   - Update `PLAN.md` with new approach
-   - Modify affected `PHASE-N.md` files
-   - Update `PROGRESS.md` checklist if phases change
-   - Reset progress for impacted phases
+
+   - For minor adjustments: Update files directly
+   - For major changes: "This is a bigger change than I thought. Want to step back and replan this properly?"
 
 3. **Collaborative Implementation**
 
